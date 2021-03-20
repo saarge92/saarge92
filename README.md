@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saarge92
+- 👋 Hi, I’m Serdar Durdyev
 - 👀 I’m interested in Typescript & PHP
 - 🌱 I’m currently learning Golang & Solidity
 - 💞️ I’m looking to collaborate on backend
