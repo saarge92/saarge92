@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serdar Durdyev
 - 👀 I’m interested in Typescript & PHP
-- 🌱 I’m currently learning Golang & Solidity
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me sarage92@mail.ru
 
