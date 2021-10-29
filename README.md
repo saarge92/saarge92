@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serdar Durdyev
-- 👀 I’m interested in PHP & GO
-- 🌱 I’m currently learning Go & Python
+- 👀 I’m interested in PHP, Typescript & GO
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me sarage92@mail.ru
 
